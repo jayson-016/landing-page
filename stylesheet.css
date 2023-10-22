@@ -108,7 +108,7 @@
 .info-items{
     display: flex;
     justify-content: center;
-    gap: 2%;
+    gap: 1%;
     flex-wrap: wrap;
 }
 
